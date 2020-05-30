@@ -1,7 +1,7 @@
 # API Monitor Tool
 
-This small tool was developed in partnership with Van Souza - idHreusen. <br> \
-Its goal is to extract suspicious APIs from Windows binaries.\
+This small tool was developed in partnership with Van Souza - idHreusen. \s\s
+Its goal is to extract suspicious APIs from Windows binaries.
 
 **Pre requirements:** 
 pip install r2pipe
