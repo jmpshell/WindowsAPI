@@ -6,7 +6,6 @@ This small tool was developed in partnership with Van Souza - idHreusen.
 **Pre requirements:** 
 pip install r2pipe
 
-<p>Four    whitespace in between</p>
 
 **Output examples:**
 
