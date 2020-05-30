@@ -6,6 +6,9 @@ Its goal is to extract suspicious APIs from Windows binaries.
 **Pre requirements:** 
 pip install r2pipe
 
+
+**Output examples:
+
 **--> amazon invoice.exe**
 
 AdjustTokenPrivileges<br>
