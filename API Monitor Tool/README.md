@@ -6,12 +6,10 @@ Its goal is to extract suspicious APIs from Windows binaries.
 **Pre requirements:** 
 pip install r2pipe
 
-</kbd>
-<ul>
-<li>Line 1</li>
+<p>Four    whitespace in between</p>
 
 **Output examples:**
-</ul>
+
 **--> amazon invoice.exe**
 
 AdjustTokenPrivileges<br>
