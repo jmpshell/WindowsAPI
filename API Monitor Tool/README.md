@@ -14,15 +14,16 @@ pip install r2pipe
 **--> amazon invoice.exe**
 
 <blockquote>
-
-<p>AdjustTokenPrivileges
-GetProcAddress
-FindClose
-CloseHandle
-ExitProcess
-LoadResource</p>
+<h1>Foo</h1>
+<p>bar
+baz</p>
 </blockquote>
-
+AdjustTokenPrivileges<br>
+GetProcAddress<br>
+FindClose<br>
+CloseHandle<br>
+ExitProcess<br>
+LoadResource<br>
 WaitForSingleObject<br>
 SetEvent<br>
 SetFileTime<br>
