@@ -6,7 +6,7 @@ This small tool was developed in partnership with Van Souza - idHreusen.
 **Pre requirements:** 
 pip install r2pipe
 
-<hr -- />
+<hr  />
 
 
 **Output examples:**
