@@ -7,7 +7,7 @@ Its goal is to extract suspicious APIs from Windows binaries.
 pip install r2pipe
 
 
-**Output examples:
+**Output examples:**
 
 **--> amazon invoice.exe**
 
