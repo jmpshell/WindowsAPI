@@ -7,7 +7,6 @@ Its goal is to extract suspicious APIs from Windows binaries.
 **Pre requirements:** 
 pip install r2pipe
 
-
 **--> amazon invoice.exe**<br>
 AdjustTokenPrivileges<br>
 GetProcAddress<br>
@@ -78,7 +77,7 @@ GetKeyState<br>
 BitBlt<br>
 WSAStartup<br>
 
-**--> Revance.exe**
+**--> Revance.exe**<br>
 HeapReAlloc<br>
 VirtualAlloc<br>
 HeapAlloc<br>
@@ -105,7 +104,7 @@ HeapFree<br>
 SetFilePointer<br>
 
 
-**--> VisualizarBO.exe**
+**--> VisualizarBO.exe**<br>
 DeleteCriticalSection<br>
 LeaveCriticalSection<br>
 EnterCriticalSection<br>
