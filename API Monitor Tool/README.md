@@ -1,5 +1,4 @@
-# 
-API Monitor Tool
+# API Monitor Tool
 
 This small tool was developed in partnership with Van Souza - idHreusen. <br>
 Its goal is to extract suspicious APIs from Windows binaries.
@@ -9,9 +8,9 @@ pip install r2pipe
 
 **--> amazon invoice.exe**
 
-AdjustTokenPrivileges
-GetProcAddress
-FindClose
+AdjustTokenPrivileges<br>
+GetProcAddress<br>
+FindClose<br>
 CloseHandle<br>
 ExitProcess<br>
 LoadResource<br>
@@ -26,12 +25,14 @@ UnhandledExceptionFilter<br>
 ReadFile<br>
 GetDC<br>
 
-**--> jj.exe**<br>
+**--> jj.exe**
+
 ExitProcess<br>
 GetProcAddress<br>
 VirtualProtect<br>
 
-**--> OneDrive.exe**<br>
+**--> OneDrive.exe**
+
 IsDebuggerPresent<br>
 UnhandledExceptionFilter<br>
 ExitProcess<br>
@@ -78,7 +79,8 @@ GetKeyState<br>
 BitBlt<br>
 WSAStartup<br>
 
-**--> Revance.exe**<br>
+**--> Revance.exe**
+
 HeapReAlloc<br>
 VirtualAlloc<br>
 HeapAlloc<br>
@@ -105,7 +107,8 @@ HeapFree<br>
 SetFilePointer<br>
 
 
-**--> VisualizarBO.exe**<br>
+**--> VisualizarBO.exe**
+
 DeleteCriticalSection<br>
 LeaveCriticalSection<br>
 EnterCriticalSection<br>
