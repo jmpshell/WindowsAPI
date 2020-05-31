@@ -11,132 +11,128 @@ This small tool was developed in partnership with Van Souza - idHreusen.
 
 **--> amazon invoice.exe**
 
-AdjustTokenPrivileges<br>
-GetProcAddress<br>
-FindClose<br>
-CloseHandle<br>
-ExitProcess<br>
-LoadResource<br>
-WaitForSingleObject<br>
-SetEvent<br>
-SetFileTime<br>
-WriteFile<br>
-ResetEvent<br>
-CreateThread<br>
-SetFilePointer<br>
-UnhandledExceptionFilter<br>
-ReadFile<br>
-GetDC<br>
+     AdjustTokenPrivileges
+     GetProcAddress
+     FindClose
+     CloseHandle
+     ExitProcess
+     LoadResource
+     WaitForSingleObject
+     SetEvent
+     SetFileTime
+     WriteFile
+     ResetEvent
+     CreateThread
+     SetFilePointer
+     UnhandledExceptionFilter
+     ReadFile
+     GetDC
 
 **--> jj.exe**
-
-ExitProcess<br>
-GetProcAddress<br>
-VirtualProtect<br>
+     ExitProcess
+     GetProcAddress
+     VirtualProtect
 
 **--> OneDrive.exe**
-
-IsDebuggerPresent<br>
-UnhandledExceptionFilter<br>
-ExitProcess<br>
-HeapQueryInformation<br>
-VirtualQuery<br>
-VirtualAlloc<br>
-HeapSetInformation<br>
-GetFileInformationByHandle<br>
-HeapAlloc<br>
-HeapAlloc<br>
-CreateThread<br>
-ExitThread<br>
-HeapFree<br>
-VirtualProtect<br>
-InitializeCriticalSectionAndSpinCount<br>
-GetFileTime<br>
-GetFileSizeEx<br>
-HeapReAlloc<br>
-InterlockedExchange<br>
-FindClose<br>
-SetEndOfFile<br>
-SetFilePointer<br>
-WriteFile<br>
-ResumeThread<br>
-WideCharToMultiByte<br>
-LoadResource<br>
-TlsFree<br>
-TlsSetValue<br>
-TlsAlloc<br>
-TlsGetValue<br>
-WaitForMultipleObjects<br>
-GetProcAddress<br>
-ReadFile<br>
-PeekNamedPipe<br>
-CloseHandle<br>
-WaitForSingleObject<br>
-DeleteCriticalSection<br>
-EnterCriticalSection<br>
-LeaveCriticalSection<br>
-GetAsyncKeyState<br>
-GetForegroundWindow<br>
-GetDC<br>
-GetKeyState<br>
-BitBlt<br>
-WSAStartup<br>
+IsDebuggerPresent
+UnhandledExceptionFilter
+ExitProcess
+HeapQueryInformation
+VirtualQuery
+VirtualAlloc
+HeapSetInformation
+GetFileInformationByHandle
+HeapAlloc
+HeapAlloc
+CreateThread
+ExitThread
+HeapFree
+VirtualProtect
+InitializeCriticalSectionAndSpinCount
+GetFileTime
+GetFileSizeEx
+HeapReAlloc
+InterlockedExchange
+FindClose
+SetEndOfFile
+SetFilePointer
+WriteFile
+ResumeThread
+WideCharToMultiByte
+LoadResource
+TlsFree
+TlsSetValue
+TlsAlloc
+TlsGetValue
+WaitForMultipleObjects
+GetProcAddress
+ReadFile
+PeekNamedPipe
+CloseHandle
+WaitForSingleObject
+DeleteCriticalSection
+EnterCriticalSection
+LeaveCriticalSection
+GetAsyncKeyState
+GetForegroundWindow
+GetDC
+GetKeyState
+BitBlt
+WSAStartup
 
 **--> Revance.exe**
-
-HeapReAlloc<br>
-VirtualAlloc<br>
-HeapAlloc<br>
-HeapAlloc<br>
-InitializeCriticalSectionAndSpinCount<br>
-LeaveCriticalSection<br>
-EnterCriticalSection<br>
-CloseHandle<br>
-WaitForSingleObject<br>
-CreateThread<br>
-UnhandledExceptionFilter<br>
-IsDebuggerPresent<br>
-GetProcAddress<br>
-ExitProcess<br>
-WriteFile<br>
-WideCharToMultiByte<br>
-DeleteCriticalSection<br>
-TlsGetValue<br>
-TlsAlloc<br>
-TlsSetValue<br>
-TlsFree<br>
-VirtualFree<br>
-HeapFree<br>
-SetFilePointer<br>
+HeapReAlloc
+VirtualAlloc
+HeapAlloc
+HeapAlloc
+InitializeCriticalSectionAndSpinCount
+LeaveCriticalSection
+EnterCriticalSection
+CloseHandle
+WaitForSingleObject
+CreateThread
+UnhandledExceptionFilter
+IsDebuggerPresent
+GetProcAddress
+ExitProcess
+WriteFile
+WideCharToMultiByte
+DeleteCriticalSection
+TlsGetValue
+TlsAlloc
+TlsSetValue
+TlsFree
+VirtualFree
+HeapFree
+SetFilePointer
 
 
 **--> VisualizarBO.exe**
-
-DeleteCriticalSection<br>
-LeaveCriticalSection<br>
-EnterCriticalSection<br>
-VirtualFree<br>
-VirtualAlloc<br>
-WideCharToMultiByte<br>
-TlsSetValue<br>
-TlsGetValue<br>
-WriteFile<br>
-SetFilePointer<br>
-SetEndOfFile<br>
-ReadFile<br>
-ExitProcess<br>
-CloseHandle<br>
-WriteFile<br>
-VirtualQuery<br>
-VirtualProtect<br>
-VirtualFree<br>
-VirtualAlloc<br>
-SetFilePointer<br>
-SetEndOfFile<br>
-ReadFile<br>
-LoadResource<br>
-GetProcAddress<br>
-InterlockedExchange<br>
-CloseHandle<br>
-AdjustTokenPrivileges<br>
+DeleteCriticalSection
+LeaveCriticalSection
+EnterCriticalSection
+VirtualFree
+VirtualAlloc
+WideCharToMultiByte
+TlsSetValue
+TlsGetValue
+WriteFile
+SetFilePointer
+SetEndOfFile
+ReadFile
+ExitProcess
+CloseHandle
+WriteFile
+VirtualQuery
+VirtualProtect
+VirtualFree
+VirtualAlloc
+SetFilePointer
+SetEndOfFile
+ReadFile
+LoadResource
+GetProcAddress
+InterlockedExchange
+CloseHandle
+AdjustTokenPrivileges
 
