@@ -3,11 +3,11 @@
 This small tool was developed in partnership with Van Souza - idHreusen.
 <br>Its goal is to extract suspicious APIs from Windows binaries.
 
-**Pre requirements:** 
+ 
+
+<h1>**Pre requirements:**</h1>
+
 pip install r2pipe
-
-<h1>Hi there, I'm Hank Quinlan!</h1>
-
 
 
 
