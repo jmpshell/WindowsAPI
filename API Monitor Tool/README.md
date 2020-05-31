@@ -7,10 +7,6 @@ This small tool was developed in partnership with Van Souza - idHreusen.
      pip install r2pipe    
 
 
-**Pre requirements:**
-
-
-
 
 **Output examples:**
 
