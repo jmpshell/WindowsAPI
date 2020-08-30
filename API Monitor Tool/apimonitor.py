@@ -1,5 +1,5 @@
 '''
-This small tool was developed in partnership with Van Souza - idHreusen. 
+This small tool was developed in partnership with Van Souza - @idHreusen. 
 Its goal is to extract suspicious APIs from Windows binaries.
 
 pip install r2pipe
